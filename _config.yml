@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: Anmol Chaddhaaa
+title: Anmol Chaddhaaai
 description: Portfolio
 author: Anmol Chaddhaaa
 
@@ -13,20 +13,20 @@ navbar-links:
 #   avatar: "/assets/index.jpeg"
 #   round-avatar: true
   
-  social-network-links:
-  email: "chanmol1999@gmail.com"
-  facebook: anmol
-  github: chanmol1999
-  twitter: chanmol1999
-  linkedin: anmol-chaddha
-  rss: true
+#   social-network-links:
+#   email: "chanmol1999@gmail.com"
+#   facebook: anmol
+#   github: chanmol1999
+#   twitter: chanmol1999
+#   linkedin: anmol-chaddha
+#   rss: true
   
-  share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+#   share-links-active:
+#   twitter: true
+#   facebook: true
+#   linkedin: true
   
-  url-pretty: "chanmol1999.github.io"
+#   url-pretty: "chanmol1999.github.io"
   
-  link-tags: true
+#   link-tags: true
   
