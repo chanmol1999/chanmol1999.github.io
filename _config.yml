@@ -1,3 +1,32 @@
 theme: jekyll-theme-cayman
 title: Anmol Chaddha
 description: Portfolio
+author: Anmol Chaddha
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+  
+  avatar: "/assets/img/avatar-icon.png"
+  round-avatar: true
+  
+  social-network-links:
+  email: "chanmol1999@gmail.com"
+  facebook: anmol
+  github: chanmol1999
+  twitter: chanmol1999
+  linkedin: anmol-chaddha
+  rss: true
+  
+  share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+  
+  url-pretty: "chanmol1999.github.io"
+  
+  link-tags: true
+  
