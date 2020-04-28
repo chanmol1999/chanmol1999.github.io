@@ -1,17 +1,17 @@
 theme: jekyll-theme-cayman
-title: Anmol Chaddha
+title: Anmol Chaddhaaa
 description: Portfolio
 author: Anmol Chaddhaaa
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Home: "https://beautifuljekyll.com"
+    - CV: "https://www.markdowntutorial.com/"
+  Author's home: "https://chanmol1999.github.io"
   
-  avatar: "/assets/index.jpeg"
-  round-avatar: true
+#   avatar: "/assets/index.jpeg"
+#   round-avatar: true
   
   social-network-links:
   email: "chanmol1999@gmail.com"
