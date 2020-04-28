@@ -19,7 +19,7 @@ navbar-links:
   About Me: "aboutme"
   Resume | CV: "resume/Anudit_Verma.pdf"
 
-
+navbar-col: "orange"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
