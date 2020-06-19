@@ -14,6 +14,7 @@
         <!-- FAV AND ICONS   -->
         <link rel="shortcut icon" href="assets/images/logo.png">
         <link rel="shortcut icon" href="assets/images/logo.png">
+
         
         <!-- Google Font-->
         <link href="http://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
@@ -40,6 +41,7 @@
         <link rel="alternate stylesheet" href="assets/css/colors/purple.css" title="purple">
         <link rel="alternate stylesheet" href="assets/css/colors/slate.css" title="slate">
         <link rel="alternate stylesheet" href="assets/css/colors/yellow.css" title="yellow">
+       <link  rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"/>
     </head>
     <body class="dark-vertion black-bg">
         <!-- Start Loader -->
@@ -398,6 +400,31 @@
                 </div>
             </div>
         </section>
+
+        <section class="mh-experience" id="calendar">
+        	<div class="container">
+        	<div class="bolor-overlay"> 
+        		 <div class="section-title text-center col-sm-12">
+        		 <h3 class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">Github Contributions</h3>
+
+        		 <div class="mh-professional-skill wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.6s">
+
+        	<div class="calendar" >
+        		       			
+        		 	
+        		<p>Fetching data from github</p>
+        	</div>
+        </div>
+        
+        
+        </div>
+    </div>
+
+        	
+        	</div>
+        	
+        </section>
+       
         
         <!--
         ===================
@@ -827,6 +854,9 @@
     <!-- Custom Scripts-->
     <script src="assets/js/map-init.js"></script>
     <script src="assets/js/custom-scripts.js"></script>
+   <script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script>
+     <script>GitHubCalendar(".calendar", "chanmol1999", { responsive: true });</script>
+
     
 
     <!-- ****************
